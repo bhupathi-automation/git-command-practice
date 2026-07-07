@@ -1,1 +1,1 @@
-#This is play java project to practice Git Commands
+#This is plain java project to practice Git Commands
